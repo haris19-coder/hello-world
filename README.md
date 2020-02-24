@@ -1,5 +1,4 @@
 # hello-world
-my first repository
 hi people
 
 I am haris19-coder and I am a fitness trainer.
